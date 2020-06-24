@@ -18,6 +18,7 @@ public class Pract {
         // TODO code application logic here
         System.out.println("learning java");
         System.out.println("learning push");
+        System.out.println("learning fetch");
     }
     
 }
