@@ -17,6 +17,7 @@ public class Pract {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("learning java");
+        System.out.println("learning push");
     }
     
 }
